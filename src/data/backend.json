@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Django",
+        "icon": "https://icon.icepanel.io/Technology/png-shadow-512/Django.png"
+    },
+    {
+        "name": "FastAPI",
+        "icon": "https://icon.icepanel.io/Technology/svg/FastAPI.svg"
+    },
+    {
+        "name": "Node.js",
+        "icon": "https://icon.icepanel.io/Technology/svg/Node.js.svg"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    }
+]

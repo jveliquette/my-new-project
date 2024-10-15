@@ -1,0 +1,26 @@
+[
+    {
+        "name": "React",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "Next.js",
+        "icon": "https://www.svgrepo.com/show/306466/next-dot-js.svg"
+    },
+    {
+        "name": "Redux",
+        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "Bulma",
+        "icon": "https://www.svgrepo.com/show/353527/bulma.svg"
+    },
+    {
+        "name": "Vite",
+        "icon": "https://icon.icepanel.io/Technology/svg/Vite.js.svg"
+    }
+]
