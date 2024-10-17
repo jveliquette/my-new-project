@@ -3,6 +3,7 @@ import NavBar from './components/Navbar';
 import HeroSection from './components/HeroSection';
 import About from './components/About';
 import Skills from './components/Skills';
+import Starfield from './components/Starfield';
 
 function App() {
   return (
